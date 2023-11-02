@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/m-salem/etl_project/src/main/scala/Transform.scala:61:3: not found: value Union[0m
+[0m[[0m[31merror[0m] [0m[0m  Union the all data of Teams[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/m-salem/etl_project/src/main/scala/Transform.scala:61:13: not found: value all[0m
+[0m[[0m[31merror[0m] [0m[0m  Union the all data of Teams[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/m-salem/etl_project/src/main/scala/Transform.scala:61:22: not found: value of[0m
+[0m[[0m[31merror[0m] [0m[0m  Union the all data of Teams[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

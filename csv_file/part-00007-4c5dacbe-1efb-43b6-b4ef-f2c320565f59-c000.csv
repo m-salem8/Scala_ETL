@@ -1,0 +1,1765 @@
+game_id,player_id,pts,reb,hometeam_name,hometeam_id,hometeam_score,visitteam_name,visitteam_id,visitteam_score
+455107,17896116,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895791,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895835,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666442,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,396,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,466,2,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,50815,6,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896089,4,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896035,13,12,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895769,3,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666454,4,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896030,21,7,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666467,3,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666468,13,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547273,14,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,2106,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895724,4,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666885,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666750,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895723,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895721,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896019,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17554004,2,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895839,4,5,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895722,8,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896029,21,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547289,16,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896040,18,10,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,41,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,5,11,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+459132,666885,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895724,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17554004,5,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896019,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666750,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895723,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895722,3,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,2106,2,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896029,21,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547289,20,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,41,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896040,13,11,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,5,12,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895865,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,299,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895854,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896102,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895968,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896007,6,4,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895721,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666840,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666930,1,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896053,2,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547254,31,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547272,21,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895941,8,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547270,20,12,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896025,7,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895839,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+463448,1603383,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554008,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553997,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553940,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553941,2,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17620634,3,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554003,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553942,9,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554001,7,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554002,14,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666908,24,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,11891374,21,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666821,6,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553998,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666750,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895722,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895839,2,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895723,5,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666885,12,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554004,4,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895721,0,1,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896029,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,41,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896019,2,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,3547289,26,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895724,0,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,2106,0,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896040,25,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,5,18,3,Miami Heat,16,90,Atlanta Hawks,1,94
+467897,17895815,5,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896082,9,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896101,2,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896033,19,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547269,14,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895858,26,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896063,6,13,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,11314392,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896119,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,366,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547243,11,9,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,412,12,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,2106,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547289,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666750,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896040,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895722,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,41,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895723,16,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896019,6,3,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17554004,7,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896079,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895777,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895902,0,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895839,18,7,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896029,6,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895724,6,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895721,4,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666885,9,4,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,5,13,7,New York Knicks,20,104,Atlanta Hawks,1,85
+451506,2106,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666750,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895723,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895721,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896019,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895722,12,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895839,0,9,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895724,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666885,0,7,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896029,11,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547289,13,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,41,6,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896040,20,10,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,5,13,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895732,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895875,0,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896068,7,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895775,2,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896060,5,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,4197384,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547276,23,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666551,17,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666713,12,6,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666716,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547250,11,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+831662,400,0,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,285,3,4,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547247,6,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666581,21,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,277,16,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,9,11,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896076,18,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,297,26,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666971,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547279,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,359,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547289,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,259,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896040,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,129,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,288,2,1,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547244,2,9,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,487,2,6,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,118,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666476,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,53,19,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,490,38,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,221,13,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,83,7,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,167,14,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666656,10,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+830800,259,0,1,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547289,2,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896040,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,288,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547244,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,487,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,53,13,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,490,24,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,221,13,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,83,15,17,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,167,18,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666656,22,7,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,18678001,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547282,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896032,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,440,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666762,7,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,360,3,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,194,9,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666748,2,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,129,3,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896037,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547239,26,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,403,21,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,371,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666950,17,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,62,12,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+455107,17896116,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895791,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895835,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666442,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,396,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,466,2,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,50815,6,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896089,4,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896035,13,12,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895769,3,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666454,4,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896030,21,7,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666467,3,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666468,13,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547273,14,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,2106,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895724,4,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666885,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666750,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895723,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895721,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896019,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17554004,2,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895839,4,5,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895722,8,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896029,21,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547289,16,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896040,18,10,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,41,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,5,11,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+459132,666885,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895724,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17554004,5,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896019,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666750,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895723,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895722,3,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,2106,2,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896029,21,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547289,20,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,41,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896040,13,11,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,5,12,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895865,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,299,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895854,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896102,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895968,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896007,6,4,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895721,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666840,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666930,1,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896053,2,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547254,31,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547272,21,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895941,8,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547270,20,12,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896025,7,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895839,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+463448,1603383,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554008,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553997,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553940,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553941,2,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17620634,3,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554003,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553942,9,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554001,7,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554002,14,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666908,24,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,11891374,21,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666821,6,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553998,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666750,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895722,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895839,2,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895723,5,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666885,12,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554004,4,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895721,0,1,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896029,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,41,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896019,2,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,3547289,26,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895724,0,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,2106,0,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896040,25,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,5,18,3,Miami Heat,16,90,Atlanta Hawks,1,94
+467897,17895815,5,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896082,9,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896101,2,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896033,19,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547269,14,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895858,26,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896063,6,13,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,11314392,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896119,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,366,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547243,11,9,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,412,12,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,2106,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547289,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666750,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896040,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895722,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,41,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895723,16,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896019,6,3,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17554004,7,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896079,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895777,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895902,0,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895839,18,7,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896029,6,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895724,6,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895721,4,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666885,9,4,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,5,13,7,New York Knicks,20,104,Atlanta Hawks,1,85
+451506,2106,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666750,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895723,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895721,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896019,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895722,12,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895839,0,9,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895724,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666885,0,7,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896029,11,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547289,13,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,41,6,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896040,20,10,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,5,13,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895732,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895875,0,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896068,7,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895775,2,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896060,5,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,4197384,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547276,23,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666551,17,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666713,12,6,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666716,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547250,11,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+831662,400,0,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,285,3,4,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547247,6,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666581,21,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,277,16,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,9,11,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896076,18,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,297,26,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666971,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547279,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,359,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547289,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,259,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896040,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,129,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,288,2,1,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547244,2,9,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,487,2,6,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,118,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666476,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,53,19,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,490,38,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,221,13,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,83,7,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,167,14,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666656,10,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+830800,259,0,1,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547289,2,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896040,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,288,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547244,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,487,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,53,13,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,490,24,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,221,13,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,83,15,17,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,167,18,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666656,22,7,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,18678001,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547282,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896032,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,440,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666762,7,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,360,3,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,194,9,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666748,2,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,129,3,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896037,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547239,26,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,403,21,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,371,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666950,17,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,62,12,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+455107,17896116,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895791,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895835,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666442,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,396,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,466,2,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,50815,6,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896089,4,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896035,13,12,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895769,3,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666454,4,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896030,21,7,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666467,3,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666468,13,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547273,14,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,2106,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895724,4,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666885,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666750,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895723,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895721,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896019,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17554004,2,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895839,4,5,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895722,8,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896029,21,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547289,16,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896040,18,10,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,41,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,5,11,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+459132,666885,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895724,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17554004,5,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896019,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666750,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895723,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895722,3,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,2106,2,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896029,21,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547289,20,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,41,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896040,13,11,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,5,12,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895865,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,299,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895854,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896102,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895968,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896007,6,4,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895721,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666840,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666930,1,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896053,2,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547254,31,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547272,21,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895941,8,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547270,20,12,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896025,7,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895839,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+463448,1603383,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554008,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553997,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553940,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553941,2,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17620634,3,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554003,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553942,9,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554001,7,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554002,14,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666908,24,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,11891374,21,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666821,6,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553998,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666750,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895722,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895839,2,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895723,5,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666885,12,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554004,4,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895721,0,1,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896029,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,41,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896019,2,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,3547289,26,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895724,0,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,2106,0,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896040,25,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,5,18,3,Miami Heat,16,90,Atlanta Hawks,1,94
+467897,17895815,5,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896082,9,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896101,2,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896033,19,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547269,14,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895858,26,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896063,6,13,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,11314392,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896119,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,366,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547243,11,9,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,412,12,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,2106,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547289,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666750,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896040,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895722,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,41,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895723,16,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896019,6,3,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17554004,7,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896079,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895777,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895902,0,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895839,18,7,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896029,6,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895724,6,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895721,4,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666885,9,4,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,5,13,7,New York Knicks,20,104,Atlanta Hawks,1,85
+451506,2106,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666750,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895723,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895721,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896019,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895722,12,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895839,0,9,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895724,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666885,0,7,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896029,11,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547289,13,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,41,6,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896040,20,10,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,5,13,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895732,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895875,0,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896068,7,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895775,2,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896060,5,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,4197384,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547276,23,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666551,17,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666713,12,6,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666716,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547250,11,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+831662,400,0,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,285,3,4,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547247,6,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666581,21,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,277,16,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,9,11,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896076,18,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,297,26,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666971,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547279,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,359,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547289,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,259,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896040,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,129,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,288,2,1,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547244,2,9,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,487,2,6,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,118,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666476,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,53,19,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,490,38,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,221,13,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,83,7,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,167,14,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666656,10,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+830800,259,0,1,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547289,2,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896040,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,288,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547244,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,487,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,53,13,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,490,24,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,221,13,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,83,15,17,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,167,18,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666656,22,7,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,18678001,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547282,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896032,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,440,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666762,7,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,360,3,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,194,9,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666748,2,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,129,3,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896037,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547239,26,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,403,21,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,371,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666950,17,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,62,12,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+455107,17896116,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895791,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895835,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666442,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,396,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,466,2,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,50815,6,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896089,4,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896035,13,12,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895769,3,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666454,4,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896030,21,7,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666467,3,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666468,13,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547273,14,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,2106,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895724,4,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666885,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666750,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895723,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895721,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896019,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17554004,2,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895839,4,5,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895722,8,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896029,21,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547289,16,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896040,18,10,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,41,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,5,11,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+459132,666885,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895724,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17554004,5,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896019,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666750,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895723,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895722,3,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,2106,2,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896029,21,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547289,20,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,41,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896040,13,11,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,5,12,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895865,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,299,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895854,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896102,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895968,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896007,6,4,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895721,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666840,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666930,1,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896053,2,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547254,31,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547272,21,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895941,8,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547270,20,12,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896025,7,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895839,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+463448,1603383,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554008,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553997,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553940,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553941,2,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17620634,3,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554003,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553942,9,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554001,7,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554002,14,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666908,24,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,11891374,21,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666821,6,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553998,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666750,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895722,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895839,2,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895723,5,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666885,12,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554004,4,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895721,0,1,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896029,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,41,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896019,2,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,3547289,26,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895724,0,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,2106,0,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896040,25,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,5,18,3,Miami Heat,16,90,Atlanta Hawks,1,94
+467897,17895815,5,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896082,9,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896101,2,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896033,19,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547269,14,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895858,26,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896063,6,13,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,11314392,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896119,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,366,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547243,11,9,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,412,12,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,2106,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547289,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666750,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896040,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895722,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,41,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895723,16,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896019,6,3,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17554004,7,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896079,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895777,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895902,0,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895839,18,7,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896029,6,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895724,6,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895721,4,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666885,9,4,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,5,13,7,New York Knicks,20,104,Atlanta Hawks,1,85
+451506,2106,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666750,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895723,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895721,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896019,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895722,12,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895839,0,9,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895724,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666885,0,7,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896029,11,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547289,13,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,41,6,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896040,20,10,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,5,13,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895732,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895875,0,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896068,7,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895775,2,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896060,5,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,4197384,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547276,23,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666551,17,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666713,12,6,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666716,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547250,11,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+831662,400,0,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,285,3,4,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547247,6,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666581,21,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,277,16,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,9,11,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896076,18,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,297,26,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666971,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547279,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,359,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547289,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,259,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896040,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,129,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,288,2,1,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547244,2,9,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,487,2,6,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,118,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666476,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,53,19,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,490,38,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,221,13,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,83,7,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,167,14,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666656,10,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+830800,259,0,1,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547289,2,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896040,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,288,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547244,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,487,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,53,13,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,490,24,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,221,13,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,83,15,17,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,167,18,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666656,22,7,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,18678001,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547282,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896032,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,440,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666762,7,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,360,3,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,194,9,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666748,2,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,129,3,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896037,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547239,26,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,403,21,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,371,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666950,17,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,62,12,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+455107,17896116,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895791,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895835,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666442,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,396,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,466,2,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,50815,6,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896089,4,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896035,13,12,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895769,3,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666454,4,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896030,21,7,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666467,3,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666468,13,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547273,14,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,2106,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895724,4,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666885,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666750,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895723,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895721,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896019,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17554004,2,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895839,4,5,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895722,8,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896029,21,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547289,16,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896040,18,10,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,41,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,5,11,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+459132,666885,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895724,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17554004,5,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896019,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666750,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895723,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895722,3,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,2106,2,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896029,21,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547289,20,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,41,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896040,13,11,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,5,12,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895865,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,299,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895854,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896102,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895968,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896007,6,4,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895721,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666840,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666930,1,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896053,2,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547254,31,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547272,21,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895941,8,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547270,20,12,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896025,7,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895839,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+463448,1603383,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554008,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553997,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553940,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553941,2,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17620634,3,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554003,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553942,9,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554001,7,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554002,14,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666908,24,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,11891374,21,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666821,6,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553998,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666750,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895722,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895839,2,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895723,5,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666885,12,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554004,4,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895721,0,1,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896029,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,41,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896019,2,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,3547289,26,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895724,0,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,2106,0,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896040,25,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,5,18,3,Miami Heat,16,90,Atlanta Hawks,1,94
+467897,17895815,5,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896082,9,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896101,2,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896033,19,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547269,14,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895858,26,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896063,6,13,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,11314392,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896119,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,366,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547243,11,9,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,412,12,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,2106,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547289,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666750,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896040,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895722,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,41,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895723,16,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896019,6,3,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17554004,7,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896079,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895777,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895902,0,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895839,18,7,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896029,6,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895724,6,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895721,4,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666885,9,4,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,5,13,7,New York Knicks,20,104,Atlanta Hawks,1,85
+451506,2106,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666750,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895723,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895721,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896019,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895722,12,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895839,0,9,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895724,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666885,0,7,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896029,11,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547289,13,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,41,6,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896040,20,10,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,5,13,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895732,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895875,0,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896068,7,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895775,2,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896060,5,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,4197384,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547276,23,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666551,17,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666713,12,6,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666716,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547250,11,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+831662,400,0,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,285,3,4,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547247,6,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666581,21,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,277,16,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,9,11,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896076,18,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,297,26,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666971,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547279,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,359,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547289,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,259,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896040,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,129,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,288,2,1,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547244,2,9,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,487,2,6,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,118,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666476,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,53,19,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,490,38,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,221,13,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,83,7,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,167,14,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666656,10,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+830800,259,0,1,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547289,2,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896040,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,288,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547244,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,487,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,53,13,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,490,24,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,221,13,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,83,15,17,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,167,18,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666656,22,7,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,18678001,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547282,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896032,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,440,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666762,7,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,360,3,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,194,9,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666748,2,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,129,3,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896037,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547239,26,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,403,21,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,371,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666950,17,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,62,12,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+455107,17896116,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895791,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895835,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666442,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,396,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,466,2,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,50815,6,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896089,4,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896035,13,12,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895769,3,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666454,4,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896030,21,7,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666467,3,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666468,13,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547273,14,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,2106,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895724,4,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666885,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666750,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895723,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895721,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896019,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17554004,2,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895839,4,5,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895722,8,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896029,21,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547289,16,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896040,18,10,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,41,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,5,11,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+459132,666885,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895724,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17554004,5,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896019,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666750,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895723,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895722,3,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,2106,2,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896029,21,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547289,20,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,41,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896040,13,11,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,5,12,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895865,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,299,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895854,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896102,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895968,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896007,6,4,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895721,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666840,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666930,1,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896053,2,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547254,31,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547272,21,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895941,8,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547270,20,12,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896025,7,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895839,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+463448,1603383,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554008,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553997,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553940,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553941,2,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17620634,3,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554003,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553942,9,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554001,7,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554002,14,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666908,24,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,11891374,21,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666821,6,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553998,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666750,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895722,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895839,2,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895723,5,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666885,12,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554004,4,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895721,0,1,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896029,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,41,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896019,2,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,3547289,26,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895724,0,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,2106,0,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896040,25,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,5,18,3,Miami Heat,16,90,Atlanta Hawks,1,94
+467897,17895815,5,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896082,9,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896101,2,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896033,19,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547269,14,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895858,26,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896063,6,13,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,11314392,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896119,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,366,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547243,11,9,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,412,12,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,2106,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547289,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666750,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896040,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895722,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,41,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895723,16,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896019,6,3,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17554004,7,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896079,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895777,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895902,0,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895839,18,7,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896029,6,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895724,6,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895721,4,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666885,9,4,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,5,13,7,New York Knicks,20,104,Atlanta Hawks,1,85
+451506,2106,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666750,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895723,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895721,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896019,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895722,12,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895839,0,9,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895724,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666885,0,7,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896029,11,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547289,13,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,41,6,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896040,20,10,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,5,13,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895732,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895875,0,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896068,7,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895775,2,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896060,5,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,4197384,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547276,23,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666551,17,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666713,12,6,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666716,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547250,11,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+831662,400,0,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,285,3,4,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547247,6,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666581,21,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,277,16,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,9,11,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896076,18,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,297,26,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666971,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547279,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,359,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547289,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,259,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896040,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,129,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,288,2,1,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547244,2,9,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,487,2,6,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,118,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666476,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,53,19,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,490,38,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,221,13,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,83,7,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,167,14,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666656,10,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+830800,259,0,1,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547289,2,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896040,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,288,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547244,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,487,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,53,13,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,490,24,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,221,13,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,83,15,17,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,167,18,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666656,22,7,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,18678001,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547282,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896032,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,440,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666762,7,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,360,3,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,194,9,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666748,2,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,129,3,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896037,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547239,26,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,403,21,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,371,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666950,17,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,62,12,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+455107,17896116,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895791,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895835,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666442,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,396,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,466,2,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,50815,6,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896089,4,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896035,13,12,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895769,3,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666454,4,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896030,21,7,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666467,3,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666468,13,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547273,14,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,2106,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895724,4,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666885,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666750,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895723,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895721,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896019,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17554004,2,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895839,4,5,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895722,8,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896029,21,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547289,16,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896040,18,10,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,41,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,5,11,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+459132,666885,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895724,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17554004,5,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896019,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666750,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895723,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895722,3,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,2106,2,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896029,21,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547289,20,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,41,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896040,13,11,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,5,12,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895865,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,299,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895854,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896102,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895968,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896007,6,4,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895721,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666840,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666930,1,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896053,2,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547254,31,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547272,21,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895941,8,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547270,20,12,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896025,7,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895839,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+463448,1603383,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554008,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553997,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553940,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553941,2,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17620634,3,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554003,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553942,9,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554001,7,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554002,14,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666908,24,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,11891374,21,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666821,6,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553998,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666750,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895722,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895839,2,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895723,5,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666885,12,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554004,4,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895721,0,1,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896029,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,41,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896019,2,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,3547289,26,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895724,0,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,2106,0,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896040,25,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,5,18,3,Miami Heat,16,90,Atlanta Hawks,1,94
+467897,17895815,5,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896082,9,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896101,2,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896033,19,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547269,14,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895858,26,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896063,6,13,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,11314392,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896119,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,366,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547243,11,9,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,412,12,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,2106,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547289,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666750,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896040,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895722,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,41,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895723,16,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896019,6,3,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17554004,7,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896079,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895777,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895902,0,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895839,18,7,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896029,6,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895724,6,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895721,4,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666885,9,4,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,5,13,7,New York Knicks,20,104,Atlanta Hawks,1,85
+451506,2106,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666750,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895723,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895721,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896019,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895722,12,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895839,0,9,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895724,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666885,0,7,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896029,11,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547289,13,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,41,6,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896040,20,10,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,5,13,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895732,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895875,0,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896068,7,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895775,2,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896060,5,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,4197384,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547276,23,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666551,17,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666713,12,6,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666716,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547250,11,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+831662,400,0,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,285,3,4,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547247,6,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666581,21,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,277,16,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,9,11,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896076,18,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,297,26,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666971,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547279,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,359,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547289,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,259,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896040,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,129,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,288,2,1,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547244,2,9,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,487,2,6,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,118,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666476,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,53,19,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,490,38,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,221,13,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,83,7,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,167,14,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666656,10,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+830800,259,0,1,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547289,2,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896040,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,288,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547244,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,487,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,53,13,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,490,24,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,221,13,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,83,15,17,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,167,18,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666656,22,7,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,18678001,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547282,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896032,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,440,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666762,7,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,360,3,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,194,9,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666748,2,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,129,3,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896037,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547239,26,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,403,21,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,371,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666950,17,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,62,12,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+455107,17896116,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895791,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895835,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666442,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,396,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,466,2,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,50815,6,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896089,4,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896035,13,12,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895769,3,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666454,4,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896030,21,7,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666467,3,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666468,13,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547273,14,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,2106,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895724,4,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666885,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666750,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895723,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895721,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896019,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17554004,2,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895839,4,5,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895722,8,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896029,21,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547289,16,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896040,18,10,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,41,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,5,11,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+459132,666885,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895724,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17554004,5,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896019,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666750,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895723,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895722,3,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,2106,2,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896029,21,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547289,20,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,41,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896040,13,11,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,5,12,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895865,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,299,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895854,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896102,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895968,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896007,6,4,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895721,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666840,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666930,1,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896053,2,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547254,31,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547272,21,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895941,8,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547270,20,12,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896025,7,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895839,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+463448,1603383,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554008,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553997,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553940,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553941,2,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17620634,3,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554003,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553942,9,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554001,7,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554002,14,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666908,24,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,11891374,21,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666821,6,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553998,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666750,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895722,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895839,2,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895723,5,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666885,12,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554004,4,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895721,0,1,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896029,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,41,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896019,2,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,3547289,26,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895724,0,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,2106,0,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896040,25,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,5,18,3,Miami Heat,16,90,Atlanta Hawks,1,94
+467897,17895815,5,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896082,9,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896101,2,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896033,19,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547269,14,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895858,26,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896063,6,13,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,11314392,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896119,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,366,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547243,11,9,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,412,12,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,2106,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547289,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666750,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896040,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895722,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,41,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895723,16,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896019,6,3,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17554004,7,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896079,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895777,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895902,0,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895839,18,7,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896029,6,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895724,6,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895721,4,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666885,9,4,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,5,13,7,New York Knicks,20,104,Atlanta Hawks,1,85
+451506,2106,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666750,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895723,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895721,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896019,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895722,12,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895839,0,9,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895724,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666885,0,7,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896029,11,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547289,13,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,41,6,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896040,20,10,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,5,13,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895732,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895875,0,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896068,7,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895775,2,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896060,5,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,4197384,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547276,23,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666551,17,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666713,12,6,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666716,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547250,11,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+831662,400,0,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,285,3,4,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547247,6,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666581,21,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,277,16,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,9,11,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896076,18,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,297,26,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666971,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547279,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,359,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547289,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,259,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896040,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,129,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,288,2,1,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547244,2,9,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,487,2,6,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,118,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666476,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,53,19,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,490,38,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,221,13,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,83,7,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,167,14,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666656,10,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+830800,259,0,1,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547289,2,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896040,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,288,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547244,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,487,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,53,13,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,490,24,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,221,13,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,83,15,17,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,167,18,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666656,22,7,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,18678001,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547282,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896032,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,440,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666762,7,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,360,3,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,194,9,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666748,2,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,129,3,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896037,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547239,26,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,403,21,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,371,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666950,17,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,62,12,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+455107,17896116,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895791,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895835,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666442,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,396,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,466,2,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,50815,6,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896089,4,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896035,13,12,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895769,3,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666454,4,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896030,21,7,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666467,3,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666468,13,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547273,14,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,2106,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895724,4,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666885,0,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,666750,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895723,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895721,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896019,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17554004,2,2,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895839,4,5,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17895722,8,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896029,21,1,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,3547289,16,3,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,17896040,18,10,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,41,0,0,Indiana Pacers,12,83,Atlanta Hawks,1,84
+455107,5,11,6,Indiana Pacers,12,83,Atlanta Hawks,1,84
+459132,666885,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895724,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17554004,5,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896019,2,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666750,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895723,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895722,3,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,2106,2,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896029,21,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547289,20,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,41,4,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896040,13,11,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,5,12,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895865,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,299,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895854,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896102,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895968,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896007,6,4,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895721,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666840,0,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,666930,1,1,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896053,2,3,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547254,31,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547272,21,5,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895941,8,6,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,3547270,20,12,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17896025,7,2,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+459132,17895839,0,0,Atlanta Hawks,1,88,Philadelphia 76ers,23,96
+463448,1603383,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554008,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553997,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553940,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553941,2,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17620634,3,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554003,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553942,9,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554001,7,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554002,14,8,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666908,24,3,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,11891374,21,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666821,6,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17553998,2,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666750,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895722,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895839,2,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895723,5,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,666885,12,6,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17554004,4,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895721,0,1,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896029,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,41,0,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896019,2,0,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,3547289,26,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17895724,0,2,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,2106,0,4,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,17896040,25,7,Miami Heat,16,90,Atlanta Hawks,1,94
+463448,5,18,3,Miami Heat,16,90,Atlanta Hawks,1,94
+467897,17895815,5,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896082,9,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896101,2,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896033,19,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547269,14,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895858,26,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896063,6,13,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,11314392,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896119,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,366,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547243,11,9,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,412,12,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,2106,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,3547289,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666750,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896040,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895722,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,41,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895723,16,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896019,6,3,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17554004,7,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896079,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895777,0,0,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895902,0,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895839,18,7,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17896029,6,2,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895724,6,1,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,17895721,4,6,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,666885,9,4,New York Knicks,20,104,Atlanta Hawks,1,85
+467897,5,13,7,New York Knicks,20,104,Atlanta Hawks,1,85
+451506,2106,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666750,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895723,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895721,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896019,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895722,12,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895839,0,9,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895724,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666885,0,7,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896029,11,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547289,13,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,41,6,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896040,20,10,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,5,13,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895732,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895875,0,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896068,7,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17895775,2,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,17896060,5,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,4197384,8,2,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547276,23,5,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666551,17,8,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666713,12,6,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,666716,0,0,Atlanta Hawks,1,83,Boston Celtics,2,85
+451506,3547250,11,3,Atlanta Hawks,1,83,Boston Celtics,2,85
+831662,400,0,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,285,3,4,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547247,6,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666581,21,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,277,16,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,9,11,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896076,18,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,297,26,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666971,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547279,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,359,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547289,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,259,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,17896040,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,129,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,288,2,1,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,3547244,2,9,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,487,2,6,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,118,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666476,0,0,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,53,19,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,490,38,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,221,13,2,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,83,7,8,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,167,14,3,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+831662,666656,10,5,Cleveland Cavaliers,6,101,Atlanta Hawks,1,107
+830800,259,0,1,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547289,2,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896040,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,288,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547244,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,487,8,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,53,13,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,490,24,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,221,13,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,83,15,17,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,167,18,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666656,22,7,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,18678001,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547282,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896032,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,440,3,2,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666762,7,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,360,3,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,194,9,3,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666748,2,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,129,3,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,17896037,0,0,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,3547239,26,5,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,403,21,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,371,3,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,666950,17,6,Atlanta Hawks,1,132,Charlotte Hornets,4,103
+830800,62,12,4,Atlanta Hawks,1,132,Charlotte Hornets,4,103
