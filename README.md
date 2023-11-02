@@ -1,5 +1,7 @@
 # Scala Spark Project with Extract and Transform
 
+This Project represents the use of Big Data for procesing the NBA from an API for the teams "Phoenix Suns", "Atlanta Hawks", "LA Clippers", "Milwaukee Bucks" from balldontlie API for the season of 2021 - 2022 and transform the data retrieved and upload them into a database. 
+
 This Spark project demonstrates data extraction and transformation using two main files: `Extract.scala` and `Transform.scala`. The project is managed using SBT (Simple Build Tool) for easy setup and execution.
 
 ## Prerequisites
